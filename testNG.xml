@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="December 10 Suite">
+    <test name="TestNG">
+        <classes>
+            <class name="TestNG.TestNGAnnotationsSimple"/>
+            <class name="TestNG.ParametersTestNG"/>
+        </classes>
+    </test>
+    <test name="pigu">
+        <classes>
+            <class name="_5pamoka.ParameterizedJUnitSimple"/>
+        </classes>
+    </test>
+
+</suite>
